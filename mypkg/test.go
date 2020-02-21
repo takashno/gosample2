@@ -1,5 +1,5 @@
 package mypkg
 
 func Hoge() string {
-	return "hoge3"
+	return "111111111"
 }
